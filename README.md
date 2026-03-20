@@ -63,7 +63,7 @@ GCP Cloud Storage · Docker · Git · VS Code
 | [**AI News Sentiment Pipeline**](https://github.com/urodge/AI-News-Sentiment-Pipeline) | Python · PostgreSQL · FastAPI · NLP | Automated pipeline for ingesting, processing, and serving news sentiment data |
 | [**LLM RAG Chatbot Platform**](https://github.com/urodge/LLM-Based-RAG-Chatbot-Platform) | Python · FAISS · LLM · FastAPI | Retrieval-augmented generation system combining vector search with LLM querying |
 | [**Dataflow Automation Hub**](https://github.com/urodge/Dataflow-Automation-Hub) | Python · Airflow · SQL | ETL pipeline with DAG orchestration, data validation, and scheduling |
-| [**FastAPI Recommendation System**](https://github.com/urodge/fastapi-recommendation-system) | Python · FastAPI · Scikit-learn | ML model served via REST API with batch and single prediction endpoints |
+| [**Automation-of-Candidate-Onboarding-System**](https://github.com/urodge/Automation-of-Candidate-Onboarding-System) | Python · SQLite · OpenPyXL | Automated pipeline that OCRs scanned PDFs, validates data, stores it in SQL, and exports clean Excel reports for HR|
 
 ---
 
