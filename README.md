@@ -6,9 +6,9 @@ I'm an **AI & ML Engineer** building production-grade ML pipelines, LLM-powered 
 
 B.E. in **Artificial Intelligence & Machine Learning** — Savitribai Phule Pune University · CGPA **9.93 / 10** (Top 5% of batch).
 
-Incoming **Automation Engineer — Cloud & Data Engineering at Equifax**.
+**Automation Engineer — Cloud & Data Engineering at Equifax**.
 
-Currently at **Atlas Copco India**, where I built Python + SQL ETL pipelines and Power BI dashboards that reduced manual reporting effort by **40%**.
+Previously worked at **Atlas Copco India**, where I built Python + SQL ETL pipelines and Power BI dashboards that reduced manual reporting effort by **40%**.
 
 My work sits at the intersection of:
 - ML pipeline development & model serving
@@ -20,7 +20,7 @@ I build systems that ship to production — not just research notebooks.
 
 - 🎓 B.E. in AI & ML — Savitribai Phule Pune University · CGPA **9.93 / 10** (Top 5%)
 - 🏢 Incoming Automation Engineer — **Equifax** · Cloud & Data Engineering
-- 💼 Trainee – BI & Data Analytics — **Atlas Copco India**
+- 💼 Automation Engineer– Cloud & Data Engineering— **Equifax**
 - 📍 Pune, India
 
 ---
