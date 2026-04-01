@@ -19,7 +19,6 @@ My work sits at the intersection of:
 I build systems that ship to production — not just research notebooks.
 
 - 🎓 B.E. in AI & ML — Savitribai Phule Pune University · CGPA **9.93 / 10** (Top 5%)
-- 🏢 Incoming Automation Engineer — **Equifax** · Cloud & Data Engineering
 - 💼 Automation Engineer– Cloud & Data Engineering— **Equifax**
 - 📍 Pune, India
 
